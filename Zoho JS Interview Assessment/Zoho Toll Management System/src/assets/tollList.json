@@ -1,0 +1,30 @@
+[
+  {
+    "tollName": "Chengalpattu",
+    "Car/Jeep/Van": [61, 40],
+    "LCV": [95, 50],
+    "Truck/Bus": [205, 100],
+    "Heavy vehicle": [320, 160]
+  },
+  {
+    "tollName": "Warangal",
+    "Car/Jeep/Van": [62, 41],
+    "LCV": [96, 51],
+    "Truck/Bus": [205, 100],
+    "Heavy vehicle": [320, 160]
+  },
+  {
+    "tollName": "Kanchipuram",
+    "Car/Jeep/Van": [63, 42],
+    "LCV": [97, 52],
+    "Truck/Bus": [205, 100],
+    "Heavy vehicle": [320, 160]
+  },
+  {
+    "tollName": "Madhurai",
+    "Car/Jeep/Van": [64, 43],
+    "LCV": [98, 53],
+    "Truck/Bus": [205, 100],
+    "Heavy vehicle": [320, 160]
+  }
+]

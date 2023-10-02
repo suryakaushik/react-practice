@@ -1,0 +1,23 @@
+[
+  {
+    "vehicleType": "Car/Jeep/Van",
+    "vehicleNumber": "TN657GFH667",
+    "dateTime": "9/9/2022, 12:01:00 PM",
+    "tollName": "Chengalpattu",
+    "tarrif": 61
+  },
+  {
+    "vehicleType": "Heavy Vehicle",
+    "vehicleNumber": "TN657GFH668",
+    "dateTime": "9/9/2022, 12:02:00 PM",
+    "tollName": "Kanchipuram",
+    "tarrif": 240
+  },
+  {
+    "vehicleType": "Car/Jeep/Van",
+    "vehicleNumber": "TN657GFH669",
+    "dateTime": "9/9/2022, 12:03:00 PM",
+    "tollName": "Warangal",
+    "tarrif": 4000
+  }
+]

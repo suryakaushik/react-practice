@@ -1,0 +1,10 @@
+Let’s understand what each option is:
+name: Name of the remote app
+filename: Entry point(remoteEntry.js) for the counter app.
+remotes: Add remotes entry here (relevant for the container)
+exposes: All the component names that you want to expose to the container app.
+shared: container all the dependencies that you want to share between the container and the counter app.
+
+
+NOTE: The remote objects will have to define all the entry points exposed from remote apps, remotes entry has the following structure:
+{ "app-name": "name@<remote-host>/remoteEntry.js" }
